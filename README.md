@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dwabber, Lucky 
+- 👋 Hi, I’m @Dwabber, 
 - 👀 I’m interested in App develop
 - 🌱 I’m currently learning Swift ARKit
 - 💞️ I’m looking to collaborate on ...
